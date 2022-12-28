@@ -6,10 +6,9 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    flex-wrap:nowrap;
     transform: translateX(-50%) translateY(-50%);
     color: #17d4fe;
-    font-size: 30px;
+    font-size: 25px;
     font-family: Orbitron;
     letter-spacing: 7px;
 }
