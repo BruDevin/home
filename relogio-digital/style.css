@@ -13,7 +13,7 @@ body {
     letter-spacing: 7px;
 }
 
-@media (min-width: 750px) {
+@media (min-width: 600px) {
 .clock {
     font-size: 60px;
 }
