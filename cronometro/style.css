@@ -1,16 +1,15 @@
 /* Variables */
 /* Mixin's */
-body {
+.estilo {
   background: #ffa600;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  height: 100%;
+  /* height: 100%; */
 }
 
 .wrapper {
-  width: 800px;
-  margin: 30px auto;
   color: #fff;
   text-align: center;
+  background: #ffa600;
 }
 
 h1, h2, h3 {
