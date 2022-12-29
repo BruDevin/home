@@ -3,11 +3,13 @@ body {
 	height: 100vh;
 }
 img {
+	margin-top:auto;
 	max-height: 95vh;
 	width:50vw;
 	height: 50vw;
 }
 .slide-container {
+	margin-top: auto;
 	max-height: 95vh;
 	width: 50vw;
 	height: 50vw;
