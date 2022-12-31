@@ -1,6 +1,0 @@
-:root {font-size: 36px;}
-@media and screen (min-width: 700px) {
-  :root {
-    font-size: 18px;
-  }
-}
