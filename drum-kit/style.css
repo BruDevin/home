@@ -122,11 +122,11 @@ body {
 
 .key-map-wrapper {
     position: absolute;
-    right: 0;
-    top: 0;
-    height: 700px;
+    left: 0;
+    bottom: 0;
+    height: 300px;
     background: #111;
-    width: 250px;
+    width: 100vw;
     z-index: 3;
 }
 
@@ -139,6 +139,8 @@ body {
 }
 
 .key-map-list {
+    display:flex;
+    flex-wrap: wrap;
     list-style: none;
     color: #fff;
     text-align: left;
@@ -146,6 +148,7 @@ body {
 
 .key-map-list > li {
     margin-bottom: 25px;
+    margin-right: 35px;
 }
 
 .key-code {
