@@ -96,7 +96,7 @@ ul.color li:nth-child(4) {
 ul.color li:nth-child(5) {
 	background: #f0f;
 }
-a {
+.botao {
 	display: block;
 	padding: 5px;
 	color: #fff;
@@ -108,6 +108,6 @@ a {
 	transition: .02s;
 	cursor: pointer;
 }
-a:hover {
+.botao:hover {
 	background: #5acef4;
 }
